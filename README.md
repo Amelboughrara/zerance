@@ -7,3 +7,4 @@
 - Les difficultés : Je n'ai pas de photoshop j'ai utilisé photopea ce n'est pas trés pratique
 
 - Le temps de développement une demi journée.
+-couc c'est amel
